@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="units">
+        <item>millimeters</item>
+        <item>centimeters</item>
+        <item>inches</item>
+        <item>decimeters</item>
+        <item>feet</item>
+        <item>yards</item>
+        <item>meters</item>
+        <item>dekameters</item>
+        <item>chains</item>
+        <item>hectometers</item>
+        <item>furlongs</item>        
+        <item>kilometers</item>
+        <item>miles</item>
+    </string-array>
+    <string name="app_name">Distance Converter</string>
+    <string name="convert">\u21B5</string>
+</resources>

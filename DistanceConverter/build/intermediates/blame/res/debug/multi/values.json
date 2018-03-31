@@ -1,0 +1,66 @@
+[
+    {
+        "outputFile": "/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 16,
+                    "endColumn": 19,
+                    "endOffset": 499
+                },
+                "from": {
+                    "file": "/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 163,
+                        "endLine": 21,
+                        "endColumn": 19,
+                        "endOffset": 607
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 504,
+                    "endColumn": 55,
+                    "endOffset": 555
+                },
+                "from": {
+                    "file": "/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 55,
+                        "endOffset": 110
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 560,
+                    "endColumn": 42,
+                    "endOffset": 598
+                },
+                "from": {
+                    "file": "/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 115,
+                        "endColumn": 42,
+                        "endOffset": 153
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/src/main/res"/><source path="/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/build/generated/res/rs/release"/><source path="/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/build/generated/res/resValues/release"/></dataSet><dataSet config="release$Generated" generated="true"><source path="/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/src/release/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/src/main/res"><file name="ic_launcher" path="/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ic_launcher" path="/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/><file name="layout_main" path="/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/src/main/res/layout/layout_main.xml" qualifiers="" type="layout"/><file path="/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/src/main/res/values/strings.xml" qualifiers=""><string name="convert">\u21B5</string><string name="app_name">Distance Converter</string><string-array name="units">
+        <item>millimeters</item>
+        <item>centimeters</item>
+        <item>inches</item>
+        <item>decimeters</item>
+        <item>feet</item>
+        <item>yards</item>
+        <item>meters</item>
+        <item>dekameters</item>
+        <item>chains</item>
+        <item>hectometers</item>
+        <item>furlongs</item>        
+        <item>kilometers</item>
+        <item>miles</item>
+    </string-array></file></source><source path="/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/build/generated/res/rs/release"/><source path="/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/build/generated/res/resValues/release"/></dataSet><dataSet config="release" generated-set="release$Generated"><source path="/media/daddy/Stuff/projects/android/distance-converter/DistanceConverter/src/release/res"/></dataSet><mergedItems/></merger>
